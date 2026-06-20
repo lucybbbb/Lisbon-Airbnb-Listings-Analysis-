@@ -98,6 +98,8 @@ The dashboard includes:
 <hr>
 
 <h2>Dashboard Preview</h2>
+
+![Dashboard Overview](https://github.com/lucybbbb/formula1/blob/main/visuals/charts.pdf)
 excel/Charts.pdf
 excel/Charts - analysis.pbit
 ---
