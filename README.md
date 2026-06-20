@@ -98,7 +98,7 @@ The dashboard includes:
 <hr>
 
 <h2>Dashboard Preview</h2>
-
+excel/Charts.pdf
 excel/Charts - analysis.pbit
 ---
 
@@ -111,30 +111,6 @@ excel/Charts - analysis.pbit
 </ul>
 
 <hr>
-
-<h2> Author</h2>
-
-<p>
-<b>Lucy</b><br>Aspiring Data Analyst | SQL |Power BI | Data Modelling | Business Intellingence <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ##  Author
 
