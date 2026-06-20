@@ -99,7 +99,7 @@ The dashboard includes:
 
 <h2>Dashboard Preview</h2>
 
-
+excel/Charts - analysis.pbit
 ---
 
 <h2> Key Insights</h2>
