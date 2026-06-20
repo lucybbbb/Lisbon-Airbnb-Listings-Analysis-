@@ -18,6 +18,17 @@ The goal of this project is to explore Airbnb listings in Lisbon and answer key 
   <li>Which areas have the most listings?</li>
 </ul>
 
+<table>
+  <tr>
+    <td><img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/74a680d8-7567-4ca3-b8b1-518ce0e2d550" /></td>
+    <td><img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/360f041d-b6f6-4d27-b49f-4af5a361cd57" /></td>
+  </tr>
+  <tr>
+    <td><img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/5bb9e16c-9bf3-457f-934b-d7ab0edc422b" /></td>
+    <td><img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/b75cc022-8af4-4c59-a206-9f8c11671266" />    /td>
+  </tr>
+</table>
+
 <hr>
 
 <h2>Tools & Technologies</h2>
@@ -25,6 +36,7 @@ The goal of this project is to explore Airbnb listings in Lisbon and answer key 
 <ul>
   <li>Excel / Power Query – Data Cleaning</li>
   <li>SQL – Data Analysis</li>
+  <li>Python</li>
   <li>Power BI – Data Visualization</li>
   <li>Git & GitHub – Version Control</li>
 </ul>
