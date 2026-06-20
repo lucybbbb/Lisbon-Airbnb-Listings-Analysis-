@@ -96,12 +96,11 @@ The dashboard includes:
 </ul>
 
 <hr>
-
+![Dashboard Overview](https://github.com/lucybbbb/formula1/blob/main/visuals/charts.pbit)
 <h2>Dashboard Preview</h2>
 
 ![Dashboard Overview](https://github.com/lucybbbb/formula1/blob/main/visuals/charts.pdf)
-excel/Charts.pdf
-excel/Charts - analysis.pbit
+
 ---
 
 <h2> Key Insights</h2>
