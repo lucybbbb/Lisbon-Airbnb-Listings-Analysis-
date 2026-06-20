@@ -100,7 +100,7 @@ The dashboard includes:
 <h2>Dashboard Preview</h2>
 
 ![Dashboard Overview](https://github.com/lucybbbb/Lisbon-Airbnb-Listings-Analysis-/blob/main/excel/Charts%20-%20analysis.pbit)
-
+![Dashboard Overview](https://github.com/lucybbbb/Lisbon-Airbnb-Listings-Analysis-/blob/main/excel/Charts.pdf)
 ---
 
 <h2> Key Insights</h2>
