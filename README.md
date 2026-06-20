@@ -96,10 +96,10 @@ The dashboard includes:
 </ul>
 
 <hr>
-![Dashboard Overview](https://github.com/lucybbbb/formula1/blob/main/visuals/charts.pbit)
+
 <h2>Dashboard Preview</h2>
 
-![Dashboard Overview](https://github.com/lucybbbb/formula1/blob/main/visuals/charts.pdf)
+![Dashboard Overview](https://github.com/lucybbbb/Lisbon-Airbnb-Listings-Analysis-/blob/main/excel/Charts%20-%20analysis.pbit)
 
 ---
 
