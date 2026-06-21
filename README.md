@@ -31,6 +31,42 @@ The goal of this project is to explore Airbnb listings in Lisbon and answer key 
 
 <hr>
 
+<h2>📁 Project Structure</h2>
+
+<pre>
+lisbon-airbnb-analytics/
+│
+├── data/
+│   ├── cleaned_data/
+│   │   └── cleaned_airbnb.xlsx
+│   │
+│   └── lisbon_airbnb_listings.xlsx
+│
+├── excel/
+│   ├── charts-analysis.pbit
+│   └── charts.pdf
+│
+├── notebooks/
+│   └── 01_Data_Cleaning.ipynb
+│
+├── sql/
+│   ├── available_listings.sql
+│   ├── beds_price_price.sql
+│   ├── best_ratings.sql
+│   ├── clean_data.sql
+│   ├── create_table.sql
+│   ├── highest_review.sql
+│   ├── listings.sql
+│   ├── neighbourhood_listings.sql
+│   ├── neighbourhood_highest_price.sql
+│   ├── nights_price.sql
+│   ├── price_range.sql
+│   ├── review_influence_rating.sql
+│   └── room_highestprice.sql
+│
+└── README.md
+</pre>
+
 <h2>Tools & Technologies</h2>
 
 <ul>
